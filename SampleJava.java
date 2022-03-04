@@ -1,6 +1,7 @@
 class sample{
 
 public static void main(String[] args) {
+
   System.out.println("Hello Welcome to Git Hub");
    System.out.println("Welcome Harshith");
   int a,b,c,d;
@@ -28,4 +29,13 @@ d=a+b+c;
 
 
  
+
+  int x,y,z;
+  x=25;
+  y=32;
+  z=y-x;
+  System.out.println(z);
+  
+}
+
 }
