@@ -19,7 +19,7 @@ d=a+b+c;
 
 
   if(c>30){
-    System.out.println(c);
+    System.out.println(d);
   }
   else{
     System.out.println("Welcome Harshith");
